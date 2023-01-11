@@ -1,0 +1,3 @@
+#!/bin/bash
+
+sudo /home/michael/scripts/mouse-jiggler.sh ${1} ${2}
