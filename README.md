@@ -34,6 +34,11 @@ export PATH=$PATH:~/scripts
 
 
 
+## Acknowledgement
+
+Based on an [answer](https://askubuntu.com/a/1441179/1458474) by [Howard Connellan](https://askubuntu.com/users/1650401/howard-connellan) with some modifications by me.
+
+
 ## License
 
 <a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/GPLv3_Logo.svg" height="100px" /></a>
